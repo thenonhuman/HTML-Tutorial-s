@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Input Types</title>
+ </head>
+ <body>
+
+          <!--This is a date input -->
+
+          <input type="datetime" />
+
+          <!--This is the username input -->
+
+          <input type="username" />
+
+          <!-- this is the email input type -->
+
+          <input type="email" />
+
+          <! This is how you make something required -->
+
+          <input type="text" required />
+    </html>
+ </body>
